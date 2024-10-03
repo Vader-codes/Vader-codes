@@ -5,9 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://leetcard.jacoblin.cool/vader_codes?ext=heatmap)
-![](https://leetcard.jacoblin.cool/vader_codes?ext=contest)
 
+![](https://leetcard.jacoblin.cool/vader_codes?ext=heatmap)
 Vader-codes/Vader-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
